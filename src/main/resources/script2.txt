@@ -1,0 +1,2 @@
+clear
+execute_script C:\Users\maks-\GoogleDrive\programming\java\lab5_all\lab5-mvn\src\main\resources\script3.txt

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+   <id>5</id>
+   <name>Microsoft</name>
+   <coordinates-x>50</coordinates-x>
+   <coordinates-y>30</coordinates-y>
+   <creationDate>2012-02-22T02:06:58.147Z</creationDate>
+   <annualTurnover>10</annualTurnover>
+   <employeesCount>400</employeesCount>
+   <organizationType>COMMERCIAL</organizationType>
+   <zipCode>677008</zipCode>
+   <location-x>100</location-x>
+   <location-y>200</location-y>
+   <location-z>300</location-z>
+</organization>
+
+<organization>
+   <id>17</id>
+   <name>Yandex</name>
+   <coordinates-x>80</coordinates-x>
+   <coordinates-y>15</coordinates-y>
+   <creationDate>2003-04-22T02:06:58.147Z</creationDate>
+   <annualTurnover>15</annualTurnover>
+   <employeesCount>550</employeesCount>
+   <organizationType>COMMERCIAL</organizationType>
+   <zipCode>192168</zipCode>
+   <location-x>150</location-x>
+   <location-y>250</location-y>
+   <location-z>350</location-z>
+</organization>
